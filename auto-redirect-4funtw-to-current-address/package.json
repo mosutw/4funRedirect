@@ -1,0 +1,1 @@
+{"license": "", "description": "Auto-Redirect 4fun.tw to Current Address", "contributors": [], "author": "luke1974", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev21", "lib": "lib", "fullName": "Auto-Redirect 4fun.tw to Current Address", "main": "main", "id": "jid0-zrmoPrxRm7xzbn5nijxA1xOi0p8", "name": "auto-redirect-4funtw-to-current-address"}
